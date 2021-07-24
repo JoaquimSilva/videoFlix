@@ -3,8 +3,8 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-!**/Users/rafael/Develop/VideoFlix/src/main/java/br/com/videoflix/VideoFlix/firebase/FireBaseInitialization.java
-!**/Users/rafael/Develop/VideoFlix/VideoFlix.iml
+/Users/rafael/Develop/VideoFlix/src/main/java/br/com/videoflix/VideoFlix/firebase/FireBaseInitialization.java
+/Users/rafael/Develop/VideoFlix/VideoFlix.iml
 ### STS ###
 .apt_generated
 .classpath
